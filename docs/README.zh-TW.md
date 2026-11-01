@@ -268,6 +268,10 @@ location: China # 位置
 | `pnpm astro ...`           | 執行 `astro add`, `astro check` 等指令 |
 | `pnpm astro --help`        | 顯示 Astro CLI 說明                    |
 
+## 簡單版
+git sync "commit內容"
+pnpm new-dynamic 內容
+
 ## 🙏 致謝
 
 非常感謝 [saicaca](https://github.com/saicaca) 開發的 [fuwari](https://github.com/saicaca/fuwari) 範本，Firefly 就是基於這個範本二次開發
