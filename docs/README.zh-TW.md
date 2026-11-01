@@ -264,7 +264,7 @@ location: China # 位置
 | `pnpm format`              | 使用 Biome 格式化您的程式碼            |
 | `pnpm new-post <filename>` | 建立新文章                             |
 | `pnpm new-d <content>`     | 建立一則動態                           |
-| `pnpm new-dynamic <content>` | 建立一則動態（完整命令）             |
+| `pnpm new-dynamic <content>` | 建立一則動態（完整命令）  (不用<>)           |
 | `pnpm astro ...`           | 執行 `astro add`, `astro check` 等指令 |
 | `pnpm astro --help`        | 顯示 Astro CLI 說明                    |
 
